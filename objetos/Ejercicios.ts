@@ -132,6 +132,13 @@
     tarea1.marcaCompletada();
     tarea1.actualizarEstado('Completada');
 
+
+
+
+
+
+
+    
     //?Ejercicio 2
     type CuentaDeBanco = {
         numeroDecuenta: string,
